@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ En reconversion depuis janvier 2023 DWWM<br><br>📚 J'apprends Symfony en ce moment<br><br>🎯 Prochain objectif : Angular</p>
+<p align="left">✨ En reconversion depuis janvier 2023 DWWM<br><br>📚 J'apprends Symfony en ce moment<br><br>🎯 Prochain objectif : React / Laravel </p>
 
 ###
 
