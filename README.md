@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ En reconversion depuis janvier 2023 DWWM<br><br>📚 J'apprends Symfony en ce moment<br><br>🎯 Prochain objectif : React / Laravel </p>
+<p align="left">✨ En reconversion depuis janvier 2023 DWWM<br><br>📚 CMFP <br><br>🎯 Objectif : React / Laravel </p>
 
 ###
 
@@ -27,7 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" width="52" alt="symfony logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" width="52" alt="laravel logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
 </div>
 
